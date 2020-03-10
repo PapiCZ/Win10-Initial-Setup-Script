@@ -145,7 +145,7 @@ DisableF1HelpKey                # EnableF1HelpKey
 # ShowExplorerTitleFullPath     # HideExplorerTitleFullPath
 ShowKnownExtensions             # HideKnownExtensions
 ShowHiddenFiles                 # HideHiddenFiles
-ShowSuperHiddenFiles          # HideSuperHiddenFiles
+HideSuperHiddenFiles          # ShowSuperHiddenFiles
 ShowEmptyDrives               # HideEmptyDrives
 ShowFolderMergeConflicts      # HideFolderMergeConflicts
 EnableNavPaneExpand             # DisableNavPaneExpand
@@ -169,8 +169,8 @@ HideDesktopFromThisPC           # ShowDesktopInThisPC
 # HideDesktopFromExplorer       # ShowDesktopInExplorer
 HideDocumentsFromThisPC         # ShowDocumentsInThisPC
 # HideDocumentsFromExplorer     # ShowDocumentsInExplorer
-HideDownloadsFromThisPC         # ShowDownloadsInThisPC
-# HideDownloadsFromExplorer     # ShowDownloadsInExplorer
+ShowDownloadsInThisPC           # HideDownloadsFromThisPC
+ShowDownloadsInExplorer         # HideDownloadsFromExplorer
 HideMusicFromThisPC             # ShowMusicInThisPC
 # HideMusicFromExplorer         # ShowMusicInExplorer
 HidePicturesFromThisPC          # ShowPicturesInThisPC
