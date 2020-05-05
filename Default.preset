@@ -28,7 +28,7 @@ DisableCortana                  # EnableCortana
 # DisableCamera                 # EnableCamera
 # DisableMicrophone             # EnableMicrophone
 DisableErrorReporting           # EnableErrorReporting
-SetP2PUpdateDisable             # SetP2PUpdateInternet          # SetP2PUpdateLocal
+SetP2PUpdateLocal               # SetP2PUpdateInternet          # SetP2PUpdateLocal
 DisableDiagTrack                # EnableDiagTrack
 DisableWAPPush                  # EnableWAPPush
 # EnableClearRecentFiles        # DisableClearRecentFiles
@@ -187,35 +187,35 @@ DisableThumbnailCache           # EnableThumbnailCache
 DisableThumbsDBOnNetwork        # EnableThumbsDBOnNetwork
 
 ### Application Tweaks ###
-#DisableOneDrive                 # EnableOneDrive
-#UninstallOneDrive               # InstallOneDrive
-#UninstallMsftBloat              # InstallMsftBloat
-#UninstallThirdPartyBloat        # InstallThirdPartyBloat
-#InstallWindowsStore             # UninstallWindowsStore
-#EnableXboxFeatures              # DisableXboxFeatures
+DisableOneDrive                 # EnableOneDrive
+UninstallOneDrive               # InstallOneDrive
+UninstallMsftBloat              # InstallMsftBloat
+UninstallThirdPartyBloat        # InstallThirdPartyBloat
+InstallWindowsStore             # UninstallWindowsStore
+EnableXboxFeatures              # DisableXboxFeatures
 # DisableFullscreenOptims       # EnableFullscreenOptims
-#DisableAdobeFlash               # EnableAdobeFlash
-#DisableEdgePreload              # EnableEdgePreload
-#DisableEdgeShortcutCreation     # EnableEdgeShortcutCreation
-#DisableIEFirstRun               # EnableIEFirstRun
-#DisableFirstLogonAnimation      # EnableFirstLogonAnimation
-#DisableMediaSharing             # EnableMediaSharing
+DisableAdobeFlash               # EnableAdobeFlash
+DisableEdgePreload              # EnableEdgePreload
+DisableEdgeShortcutCreation     # EnableEdgeShortcutCreation
+DisableIEFirstRun               # EnableIEFirstRun
+DisableFirstLogonAnimation      # EnableFirstLogonAnimation
+DisableMediaSharing             # EnableMediaSharing
 # EnableDeveloperMode           # DisableDeveloperMode
-#UninstallMediaPlayer          # InstallMediaPlayer
+UninstallMediaPlayer          # InstallMediaPlayer
 # UninstallInternetExplorer     # InstallInternetExplorer
-#UninstallWorkFolders          # InstallWorkFolders
+UninstallWorkFolders          # InstallWorkFolders
 # UninstallPowerShellV2         # InstallPowerShellV2
 # InstallLinuxSubsystem         # UninstallLinuxSubsystem
 # InstallHyperV                 # UninstallHyperV
 # UninstallSSHClient            # InstallSSHClient
 # InstallSSHServer              # UninstallSSHServer
 # InstallNET23                  # UninstallNET23
-#SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
-#AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
+SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
+AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
 # UninstallPDFPrinter           # InstallPDFPrinter
-#UninstallXPSPrinter             # InstallXPSPrinter
-#RemoveFaxPrinter                # AddFaxPrinter
-#UninstallFaxAndScan           # InstallFaxAndScan
+UninstallXPSPrinter             # InstallXPSPrinter
+RemoveFaxPrinter                # AddFaxPrinter
+UninstallFaxAndScan           # InstallFaxAndScan
 
 ### Server Specific Tweaks ###
 # HideServerManagerOnLogin      # ShowServerManagerOnLogin
